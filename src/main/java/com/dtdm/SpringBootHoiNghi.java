@@ -9,10 +9,10 @@ import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 import org.springframework.core.io.ClassPathResource;
 
 @SpringBootApplication
-public class MyBlogApplication {
+public class SpringBootHoiNghi {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MyBlogApplication.class, args);
+		SpringApplication.run(SpringBootHoiNghi.class, args);
 	}
 	
 	@Bean
